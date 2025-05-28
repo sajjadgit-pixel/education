@@ -146,10 +146,15 @@ font-style: normal;
 	font-style:IRDASTNEVIS;
 }
 .width_d{
-	max-width:80px;
+	max-width:100px;
 }
 .width_s{
 	max-width:30px;
+}
+.w-auto{
+	color: rgb(255, 255, 255);
+	width:20vh;
+	height:auto;
 }
 .width_5 {
 /* width:350px;
